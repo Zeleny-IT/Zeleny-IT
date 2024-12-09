@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Profile!
 
-Hi there! 👋 I'm [Your Name], a [your profession/role, e.g., Software Developer] passionate about [your interests, e.g., building innovative solutions, open-source contributions, AI, and more].
+Hi there! 👋 I'm Zeleny, a programmer
 
 ---
 
